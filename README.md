@@ -5,7 +5,7 @@
 <Color hex="#6366f1">Liberty Multiplayer</Color>
 ```
 ![image](https://github.com/liberty-mp/wiki/assets/35312043/dd2956a2-74e6-4a63-8ee4-2646615c4772)
-
+d
 ### Dinero
 ```vue
 <Dinero :amount="1000" />
